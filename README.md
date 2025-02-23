@@ -40,8 +40,9 @@
 
 ### 2.2. Конспект лекции
 <p align="center">
-  <img src="[ЗДЕСЬ ДОЛЖЕН БЫТЬ СКРИНШОТ 1-го ЛИСТА КОНСПЕКТА ЛЕКЦИИ]" alt="lecture-notes-1.jpg">
-  <img src="[ЗДЕСЬ ДОЛЖЕН БЫТЬ СКРИНШОТ 2-го ЛИСТА КОНСПЕКТА ЛЕКЦИИ]" alt="lecture-notes-2.jpg">
+  <img src="report\lecture-notes\lecture-notes-1.jpg" alt="lecture-notes-1.jpg">
+  <img src="report\lecture-notes\lecture-notes-2.jpg" alt="lecture-notes-2.jpg">
+  <img src="report\lecture-notes\lecture-notes-3.jpg" alt="lecture-notes-3.jpg">
 </p>
 
 
